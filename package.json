@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-plugin-easter-egg",
+  "main": "./index.js",
+  "version": "1.0.0",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "easter egg",
+    "konami code",
+    "secret",
+    "hidden surprise",
+    "💜🔌🐰🥚"
+  ]
+}
