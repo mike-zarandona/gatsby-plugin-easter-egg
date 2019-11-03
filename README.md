@@ -1,8 +1,8 @@
 # gatsby-plugin-easter-egg
 
-<div style="font-size: 28px; margin-bottom: 0.5em;">💜🔌🐰🥚</div>
-
 A Gatsby plugin that easily adds a hidden key combination which reveals hidden fun[ctionality]
+
+<div style="font-size: 28px; margin-bottom: 0.5em;">💜🔌🐰🥚</div>
 
 ## Installation
 
